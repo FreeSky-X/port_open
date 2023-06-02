@@ -1,0 +1,16 @@
+[package]
+name = "port_open"
+version = "0.1.0"
+description = "Get the open status of an ipv4 port"
+authors=["GD-GK <869540029@qq.com>"]
+edition = "2021"
+license = "MIT"
+
+readme = "README.md"
+repository = 
+homepage = 
+document = 
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
